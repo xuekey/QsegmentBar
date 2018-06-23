@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QsegmentBar_Example' do
+  pod 'QsegmentBar', :path => '../'
+
+  target 'QsegmentBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
