@@ -122,7 +122,7 @@
 #pragma mark - 选项卡代理方法
 - (void)segmentBar:(QSegmentBar *)segmentBar didSelectIndex:(NSInteger)toIndex fromIndex:(NSInteger)fromIndex
 {
-    NSLog(@"%zd----%zd", fromIndex, toIndex);
+//    NSLog(@"%zd----%zd", fromIndex, toIndex);
     [self showChildVCViewsAtIndex:toIndex];
 }
 
