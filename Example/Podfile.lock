@@ -1,0 +1,16 @@
+PODS:
+  - QsegmentBar (0.1.0)
+
+DEPENDENCIES:
+  - QsegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  QsegmentBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QsegmentBar: e32deaf03fa9dc365e792aec2ad5a2aeabf4a851
+
+PODFILE CHECKSUM: 1e601321bd761ba444048d71035af6b02525affb
+
+COCOAPODS: 1.5.2

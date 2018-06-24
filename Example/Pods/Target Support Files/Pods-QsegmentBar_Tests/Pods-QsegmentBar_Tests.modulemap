@@ -1,0 +1,6 @@
+framework module Pods_QsegmentBar_Tests {
+  umbrella header "Pods-QsegmentBar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

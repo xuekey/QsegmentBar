@@ -1,0 +1,6 @@
+framework module QsegmentBar {
+  umbrella header "QsegmentBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

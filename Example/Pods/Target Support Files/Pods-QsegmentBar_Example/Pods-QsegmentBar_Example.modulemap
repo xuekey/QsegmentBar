@@ -1,0 +1,6 @@
+framework module Pods_QsegmentBar_Example {
+  umbrella header "Pods-QsegmentBar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
