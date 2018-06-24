@@ -9,6 +9,8 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+
+![image](https://github.com/xuekey/QsegmentBar/master/readme/1.png)
 ## Requirements
 
 ## Installation
@@ -19,6 +21,9 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'QsegmentBar'
 ```
+
+
+
 
 ## Author
 
